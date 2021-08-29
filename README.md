@@ -12,6 +12,7 @@ In this project, we will use Python to explore data related to bike sharing syst
 ### Files used
 The Datasets
 Randomly selected data for the first six months of 2017 are provided for all three cities: Chicago, New York and Washington, DC.
+We will use 3 csv files with descriptive data such as: Start Time, End Time, Trip Duration, Start Station, End Station and User Type.
 
 ### Credits
 Udacity´s Team 
